@@ -2,7 +2,7 @@
 
 AuditSQL是web版本的MySQL数据库审核平台，旨在降低DBA的运维成本
 
-使用上的问题可以提ISSUES或者加QQ群。
+使用上的问题，可以提ISSUES或者加QQ群。
 
 ## 组件
 - Python 3.6
