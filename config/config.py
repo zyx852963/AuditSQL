@@ -103,7 +103,7 @@ SOAR_CONFIG = {
         "SOAR_HOST": "127.0.0.1",
         "SOAR_PORT": 3306,
         "SOAR_USER": "root",
-        "SOAR_PASSWORD": "123.com"
+        "SOAR_PASSWORD": "root"
     },
     "arguments": [
         # 额外的SOAR参数在下面逐行添加即可
